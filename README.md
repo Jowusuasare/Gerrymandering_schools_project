@@ -105,7 +105,7 @@ Should you have queries, feel free to send an email to subhodip [at] cs.vt.edu
 # Interactive Code
 ## Interact with the Regal code with Binder by clicking the blue badge below
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/yawwusugh/conda/main?filepath=index.ipynb)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jowusuasare/Gerrymandering_schools_project/main?filepath=index.ipynb)
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
