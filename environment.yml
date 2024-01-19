@@ -15,4 +15,3 @@ dependencies:
   - libpysal
   - pandarallel
   - haversine
-  - gerrychain 
