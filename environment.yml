@@ -1,26 +1,19 @@
-name: example-environment
+name: gerrychain-environment
 channels:
   - conda-forge
 dependencies:
-  - python=3.11
-  - numpy
-  - psutil
-  - toolz
-  - matplotlib
-  - dill
-  - pandas
-  - partd
-  - bokeh
-  - dask
-  - Fiona
+  - gerrychain
+  - fiona
+  - pyproj
   - geopandas
   - geopy
   - networkx
+  - numpy
+  - pandas  
   - scipy
   - seaborn
-  - Shapely
+  - shapely
   - tqdm
   - libpysal
   - pandarallel
   - haversine
- #- gerrychain 
