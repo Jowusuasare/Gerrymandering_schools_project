@@ -1,9 +1,10 @@
 name: gerrychain-environment
 channels:
   - conda-forge
-  - gerrychain
 dependencies:
-  - Fiona
+  - gerrychain
+  - fiona
+  - pyproj
   - geopandas
   - geopy
   - networkx
@@ -11,7 +12,7 @@ dependencies:
   - pandas  
   - scipy
   - seaborn
-  - Shapely
+  - shapely
   - tqdm
   - libpysal
   - pandarallel
